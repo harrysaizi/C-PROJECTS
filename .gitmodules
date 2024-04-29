@@ -1,0 +1,3 @@
+[submodule "c-projects"]
+	path = c-projects
+	url = https://github.com/harrysaizi/c-projects.git/
